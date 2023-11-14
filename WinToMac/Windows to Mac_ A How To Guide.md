@@ -1,6 +1,7 @@
 # Windows to macOS: An Aesthetic Guide
 
 ## About This Guide
+This guide outlines the steps for personalizing the aesthetic settings on macOS for Windows users.
 
 ## Table of Contents
 #### Aesthetic Settings
