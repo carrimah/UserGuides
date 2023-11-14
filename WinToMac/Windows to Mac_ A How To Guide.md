@@ -24,9 +24,10 @@ This guide outlines the steps for personalizing the aesthetic settings on macOS 
 
 ## Aesthetic Settings
 ### How do you hide the dock and menu bar?  
-    In Windows, the bar at the bottom that displays all open and pinned applications is called the taskbar. In macOS, this is called the dock or dockbar. Users can also hide the menu bar at the top in macOS.  
+    In Windows, the bar at the bottom that displays all open and pinned applications is called the taskbar.  
+    In macOS, this is called the dock or dockbar. Users can also hide the menu bar at the top in macOS.  
 
-Hiding these UI elements can give applications more screen space. As a result, more content is visible to the user.
+    Hiding these UI elements can give applications more screen space. As a result, more content is visible to the user.
 
 #### Hiding the dock
 1. Click the Apple icon at the top left of your screen.
@@ -45,7 +46,7 @@ Move your mouse to the bottom center of your screen, and the dock will slide int
 Move your mouse to the top of your screen, and the menu bar will slide into view.
 
 ### How do you change the theme? 
-Most people have a preferred theme in which they use their devices. Whether this is simply the question of dark vs light mode or accent colors, most people have a preference.
+    Most people have a preferred theme in which they use their devices. Whether this is simply the question of dark vs light mode or accent colors, most people have a preference.
 
 #### Changing the main color mode (dark vs light)
 1. Click the Apple icon at the top left of your screen.
@@ -64,7 +65,8 @@ Most people have a preferred theme in which they use their devices. Whether this
 4. In the “Desktop” tab: Select one of the Apple provided background, a solid color, or your own image for the background.
 
 ### How do you split the screen?
-Sometimes a task may require you to switch between two windows. In these scenarios, sharing or splitting the screen between these windows is more efficient. The action is essentially the same on both Windows and macOS, but there are some differences.
+    Sometimes a task may require you to switch between two windows. In these scenarios, sharing or splitting the screen between these windows is more efficient.  
+    The action is essentially the same on both Windows and macOS, but there are some differences.
 
 #### Screen splitting on macOS vs on Windows.
 1. On macOS, the two windows are technically in full screen, so minimize is disabled. On Windows, each window is still fully functional.
