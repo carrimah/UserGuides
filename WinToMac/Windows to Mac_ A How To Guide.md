@@ -18,13 +18,13 @@ This guide outlines the steps for personalizing the aesthetic settings on macOS 
     Screen splitting on macOS vs on Windows.  
     Splitting the screen
 
-### Additional Settings
+### Additional Settings  
     How do you set scroll direction and speed?  
-        Changing the scroll direction and speed	
+        Changing the scroll direction and speed
 
 ## Aesthetic Settings
-### How do you hide the dock and menu bar?
-In Windows, the bar at the bottom that displays all open and pinned applications is called the taskbar. In macOS, this is called the dock or dockbar. Users can also hide the menu bar at the top in macOS.  
+### How do you hide the dock and menu bar?  
+    In Windows, the bar at the bottom that displays all open and pinned applications is called the taskbar. In macOS, this is called the dock or dockbar. Users can also hide the menu bar at the top in macOS.  
 
 Hiding these UI elements can give applications more screen space. As a result, more content is visible to the user.
 
