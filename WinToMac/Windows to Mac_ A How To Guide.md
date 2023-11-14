@@ -47,7 +47,8 @@ Move your mouse to the bottom center of your screen, and the dock will slide int
 Move your mouse to the top of your screen, and the menu bar will slide into view.
 
 ### How do you change the theme? 
-    Most people have a preferred theme in which they use their devices. Whether this is simply the question of dark vs light mode or accent colors, most people have a preference.
+    Most people have a preferred theme in which they use their devices.  
+    Whether this is simply the question of dark vs light mode or accent colors, most people have a preference.
 
 #### Changing the main color mode (dark vs light)
 1. Click the Apple icon at the top left of your screen.
