@@ -27,7 +27,8 @@ This guide outlines the steps for personalizing the aesthetic settings on macOS 
     In Windows, the bar at the bottom that displays all open and pinned applications is called the taskbar.  
     In macOS, this is called the dock or dockbar. Users can also hide the menu bar at the top in macOS.  
 
-    Hiding these UI elements can give applications more screen space. As a result, more content is visible to the user.
+    Hiding these UI elements can give applications more screen space.  
+    As a result, more content is visible to the user.
 
 #### Hiding the dock
 1. Click the Apple icon at the top left of your screen.
