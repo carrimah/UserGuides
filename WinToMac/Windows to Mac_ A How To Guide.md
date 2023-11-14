@@ -65,7 +65,8 @@ Move your mouse to the top of your screen, and the menu bar will slide into view
 4. In the “Desktop” tab: Select one of the Apple provided background, a solid color, or your own image for the background.
 
 ### How do you split the screen?
-    Sometimes a task may require you to switch between two windows. In these scenarios, sharing or splitting the screen between these windows is more efficient.  
+    Sometimes a task may require you to switch between two windows.  
+    In these scenarios, sharing or splitting the screen between these windows is more efficient.   
     The action is essentially the same on both Windows and macOS, but there are some differences.
 
 #### Screen splitting on macOS vs on Windows.
@@ -82,9 +83,13 @@ Move your mouse to the top of your screen, and the menu bar will slide into view
 
 ## Additional Settings
 ### How do you set scroll direction and speed?
-The scroll direction is the direction the page moves when you scroll in a program or web page. In Windows, scrolling down  moves the page “up,” allowing us to see what is lower “down” on the page. If you have only used Windows up to now, this is what feels “natural” to you.  
+    The scroll direction is the direction the page moves when you scroll in a program or web page.  
+    In Windows, scrolling down  moves the page “up,” allowing us to see what is lower “down” on the page.  
+    If you have only used Windows up to now, this is what feels “natural” to you.  
 
-In macOS, however, the scroll direction is set to “natural” by default. In order to see lower “down” on the page, you have to scroll up to drag the page “up.” Thankfully, Apple included a setting that allows you to change the direction and speed to your preference.
+    In macOS, however, the scroll direction is set to “natural” by default.  
+    In order to see lower “down” on the page, you have to scroll up to drag the page “up.”   
+    Thankfully, Apple included a setting that allows you to change the direction and speed to your preference.
 
 #### Changing the scroll direction and speed
 1. Click the Apple icon at the top left of your screen.
