@@ -4,22 +4,23 @@
 This guide outlines the steps for personalizing the aesthetic settings on macOS for Windows users.
 
 ## Table of Contents
-#### Aesthetic Settings
-1. How do you hide the dock and menu bar?  
-    Hiding the dock  
-    Showing the dock  
-    Hiding the menu bar  
-    Showing the menu bar
-2. How do you change the theme?  
-    Changing the main color mode (dark vs light)  
-    Changing the accent color  
-    Changing the desktop background  
-3. How do you split the screen?  
+### Aesthetic Settings
+    How do you hide the dock and menu bar?  
+        Hiding the dock  
+        Showing the dock  
+        Hiding the menu bar  
+        Showing the menu bar  
+    How do you change the theme?  
+        Changing the main color mode (dark vs light)  
+        Changing the accent color  
+        Changing the desktop background   
+    How do you split the screen?  
     Screen splitting on macOS vs on Windows.  
     Splitting the screen
-#### Additional Settings
-1. How do you set scroll direction and speed?
-    Changing the scroll direction and speed	
+
+### Additional Settings
+    How do you set scroll direction and speed?  
+        Changing the scroll direction and speed	
 
 ## Aesthetic Settings
 ### How do you hide the dock and menu bar?
